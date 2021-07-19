@@ -1,0 +1,21 @@
+D:\ШАГ\ConsoleApp_final_project\ConsoleApp_final_project\bin\Debug\ConsoleApp_final_project.exe.config
+D:\ШАГ\ConsoleApp_final_project\ConsoleApp_final_project\bin\Debug\ConsoleApp_final_project.exe
+D:\ШАГ\ConsoleApp_final_project\ConsoleApp_final_project\bin\Debug\ConsoleApp_final_project.pdb
+D:\ШАГ\ConsoleApp_final_project\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.csprojAssemblyReference.cache
+D:\ШАГ\ConsoleApp_final_project\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.csproj.CoreCompileInputs.cache
+D:\ШАГ\ConsoleApp_final_project\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.exe
+D:\ШАГ\ConsoleApp_final_project\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.pdb
+D:\ШАГ\ConsoleApp_final_project — копия\ConsoleApp_final_project\bin\Debug\ConsoleApp_final_project.exe.config
+D:\ШАГ\ConsoleApp_final_project — копия\ConsoleApp_final_project\bin\Debug\ConsoleApp_final_project.exe
+D:\ШАГ\ConsoleApp_final_project — копия\ConsoleApp_final_project\bin\Debug\ConsoleApp_final_project.pdb
+D:\ШАГ\ConsoleApp_final_project — копия\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.csprojAssemblyReference.cache
+D:\ШАГ\ConsoleApp_final_project — копия\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.csproj.CoreCompileInputs.cache
+D:\ШАГ\ConsoleApp_final_project — копия\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.exe
+D:\ШАГ\ConsoleApp_final_project — копия\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.pdb
+D:\ШАГ\C#\ConsoleApp_final_project_polim\ConsoleApp_final_project\bin\Debug\ConsoleApp_final_project.exe.config
+D:\ШАГ\C#\ConsoleApp_final_project_polim\ConsoleApp_final_project\bin\Debug\ConsoleApp_final_project.exe
+D:\ШАГ\C#\ConsoleApp_final_project_polim\ConsoleApp_final_project\bin\Debug\ConsoleApp_final_project.pdb
+D:\ШАГ\C#\ConsoleApp_final_project_polim\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.csprojAssemblyReference.cache
+D:\ШАГ\C#\ConsoleApp_final_project_polim\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.csproj.CoreCompileInputs.cache
+D:\ШАГ\C#\ConsoleApp_final_project_polim\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.exe
+D:\ШАГ\C#\ConsoleApp_final_project_polim\ConsoleApp_final_project\obj\Debug\ConsoleApp_final_project.pdb
